@@ -1,9 +1,9 @@
-cd C:/Users/m/Documents/GitHub/2dProject/OpenGL-Template-master/playground/
+cd C:/Users/m/OneDrive/Dokumente/GitHub/3dProject_SolarSystemVisualizer/SSV/playground/
 set 
 
 if [%1]==[--debugger] (
 	SHIFT
 )
 
-"C:/Users/m/Documents/GitHub/2dProject/OpenGL-Template-master/cmake-build-debug/playground.exe"  
+"C:/Users/m/OneDrive/Dokumente/GitHub/3dProject_SolarSystemVisualizer/SSV/cmake-build-debug/playground.exe"  
 pause
